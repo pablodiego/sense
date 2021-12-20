@@ -12,6 +12,7 @@ Test Teardown   Finish Session
 TC1
     Acessar a pagina do e-commerce
     Realizar Login
+    Ordenar os produtos pelo valor (low to high)
     Adicionar Sauce Labs Onesie
     Adicionar Test.allTheThings() T-Shirt (Red)
     Clicar no carrinho de compra
